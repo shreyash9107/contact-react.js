@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contact-reactjs-hooks-curd/static/css/main.3086222a.chunk.css",
+    "main.js": "/contact-reactjs-hooks-curd/static/js/main.a0773420.chunk.js",
+    "main.js.map": "/contact-reactjs-hooks-curd/static/js/main.a0773420.chunk.js.map",
+    "runtime-main.js": "/contact-reactjs-hooks-curd/static/js/runtime-main.fc03682b.js",
+    "runtime-main.js.map": "/contact-reactjs-hooks-curd/static/js/runtime-main.fc03682b.js.map",
+    "static/css/2.726885c2.chunk.css": "/contact-reactjs-hooks-curd/static/css/2.726885c2.chunk.css",
+    "static/js/2.c036dd1b.chunk.js": "/contact-reactjs-hooks-curd/static/js/2.c036dd1b.chunk.js",
+    "static/js/2.c036dd1b.chunk.js.map": "/contact-reactjs-hooks-curd/static/js/2.c036dd1b.chunk.js.map",
+    "index.html": "/contact-reactjs-hooks-curd/index.html",
+    "static/css/2.726885c2.chunk.css.map": "/contact-reactjs-hooks-curd/static/css/2.726885c2.chunk.css.map",
+    "static/css/main.3086222a.chunk.css.map": "/contact-reactjs-hooks-curd/static/css/main.3086222a.chunk.css.map",
+    "static/js/2.c036dd1b.chunk.js.LICENSE.txt": "/contact-reactjs-hooks-curd/static/js/2.c036dd1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc03682b.js",
+    "static/css/2.726885c2.chunk.css",
+    "static/js/2.c036dd1b.chunk.js",
+    "static/css/main.3086222a.chunk.css",
+    "static/js/main.a0773420.chunk.js"
+  ]
+}
